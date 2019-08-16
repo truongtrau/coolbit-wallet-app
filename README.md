@@ -1,1 +1,3 @@
-# coolbit-wallet-app
+# coolbit-wallet-ap
+# Android
+# iOS
